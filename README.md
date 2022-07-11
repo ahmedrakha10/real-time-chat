@@ -1,1 +1,1 @@
-#real-time chat app with (laravel and socket.io)
+real-time chat app with (laravel and socket.io)
